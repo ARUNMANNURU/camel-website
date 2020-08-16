@@ -142,7 +142,11 @@ In case `yarn build` raises error, run `yarn format` to format the code and re-r
 
 OR
 
+<<<<<<< HEAD
 Follow the below instructions if the `yarn format` command raises error.
+=======
+Follow the below instructions to resolve the `yarn format` issue.
+>>>>>>> c617c7955a3297f2633d04be078ebdad2ba5089b
 
 ```
 $ yarn format
